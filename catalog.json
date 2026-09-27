@@ -4,20 +4,83 @@
     "title": "Universos infinitos",
     "category": "Espacio",
     "resource": "wallpaper_universos",
-    "imageUrl": ""
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_universos.png"
   },
   {
     "id": 2,
     "title": "Dragón",
     "category": "Fantasía",
     "resource": "wallpaper_dragon",
-    "imageUrl": ""
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_dragon.png"
   },
   {
     "id": 3,
     "title": "Blue Flow",
     "category": "AMOLED",
     "resource": "wallpaper_blueflow",
-    "imageUrl": ""
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_blueflow.png"
+  },
+  {
+    "id": 4,
+    "title": "Alpine Lake",
+    "category": "Naturaleza",
+    "resource": "wallpaper_alpinelake",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_alpinelake.png"
+  },
+  {
+    "id": 5,
+    "title": "Night Drive",
+    "category": "Motor",
+    "resource": "wallpaper_nightdrive",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_nightdrive.png"
+  },
+  {
+    "id": 6,
+    "title": "Neon City",
+    "category": "Tecnología",
+    "resource": "wallpaper_neoncity",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_neoncity.png"
+  },
+  {
+    "id": 7,
+    "title": "Wild Soul",
+    "category": "Animales",
+    "resource": "wallpaper_wildsoul",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_wildsoul.png"
+  },
+  {
+    "id": 8,
+    "title": "Silent Forms",
+    "category": "Minimalista",
+    "resource": "wallpaper_silentforms",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_silentforms.png"
+  },
+  {
+    "id": 9,
+    "title": "Moon Peak",
+    "category": "Espacio",
+    "resource": "wallpaper_moonpeak",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_moonpeak.png"
+  },
+  {
+    "id": 10,
+    "title": "Red Horizon",
+    "category": "AMOLED",
+    "resource": "wallpaper_redhorizon",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_redhorizon.png"
+  },
+  {
+    "id": 11,
+    "title": "Rain Leaf",
+    "category": "Naturaleza",
+    "resource": "wallpaper_rainleaf",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_rainleaf.png"
+  },
+  {
+    "id": 12,
+    "title": "Hidden Falls",
+    "category": "Naturaleza",
+    "resource": "wallpaper_hiddenfalls",
+    "imageUrl": "https://wallixcaballa.github.io/wallix-catalog/wallpapers/wallpaper_hiddenfalls.png"
   }
 ]
