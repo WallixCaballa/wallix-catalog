@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Universos infinitos",
+    "category": "Espacio",
+    "resource": "wallpaper_universos",
+    "imageUrl": ""
+  },
+  {
+    "id": 2,
+    "title": "Dragón",
+    "category": "Fantasía",
+    "resource": "wallpaper_dragon",
+    "imageUrl": ""
+  },
+  {
+    "id": 3,
+    "title": "Blue Flow",
+    "category": "AMOLED",
+    "resource": "wallpaper_blueflow",
+    "imageUrl": ""
+  }
+]
